@@ -1,5 +1,14 @@
 # Introduction
 
+**Table of Contents**\
+[Components](#components:)\
+[Modules](#modulas:)\
+[How Routing Works](#how-routing-works:)\
+[Components with routings](#components-with-routings:)\
+[Routing Basics](#routing-basics)
+
+---
+
 Components:
 ![Components](./src/assets/images/01.jpg "Components")
 
