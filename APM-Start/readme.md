@@ -9,6 +9,7 @@
 [Routing Basics](#routing-basics)\
 [Setting up Routing](#Setting-up-Routing)\
 [Defining the Base Path](#Defining-the-Base-Path)
+[Importing the Angular Roter](#Importing-the-Angular-Roter)
 
 ---
 
@@ -51,5 +52,13 @@
 ### Defining the Base Path
 
 ![Defining the Base Path](./src/assets/images/07.jpg "")
+
+---
+
+### Importing the Angular Roter
+
+![Importing the Angular Roter](./src/assets/images/08.jpg "")\
+![Importing the Angular Roter](./src/assets/images/09.jpg "")\
+![Importing the Angular Roter](./src/assets/images/10.jpg "")
 
 ---
