@@ -8,7 +8,7 @@
 [Components with routings](#components-with-routings)\
 [Routing Basics](#routing-basics)\
 [Setting up Routing](#Setting-up-Routing)\
-[Defining the Base Path](#Defining-the-Base-Path)
+[Defining the Base Path](#Defining-the-Base-Path)\
 [Importing the Angular Roter](#Importing-the-Angular-Roter)
 
 ---
