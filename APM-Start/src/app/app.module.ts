@@ -22,7 +22,7 @@ import { RouterModule } from '@angular/router';
     HttpClientModule,
     InMemoryWebApiModule.forRoot(ProductData, { delay: 1000 }),
     RouterModule.forRoot([
-      { path: 'welcom', component: WelcomeComponent },
+      { path: 'welcome', component: WelcomeComponent },
       { path: '', pathMatch: 'full', redirectTo: 'welcome' },
       { path: '**', component: PageNotFoundComponent }
     ]),
