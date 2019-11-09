@@ -7,7 +7,8 @@
 [How Routing Works](#how-routing-works)\
 [Components with routings](#components-with-routings)\
 [Routing Basics](#routing-basics)\
-[Setting up Routing](#Setting-up-Routing)
+[Setting up Routing](#Setting-up-Routing)\
+[Defining the Base Path](#Defining-the-Base-Path)
 
 ---
 
@@ -44,5 +45,11 @@
 ### Setting up Routing
 
 ![Setting up Routing](./src/assets/images/06.jpg "")
+
+---
+
+### Defining the Base Path
+
+![Defining the Base Path](./src/assets/images/07.jpg "")
 
 ---
