@@ -6,7 +6,8 @@
 [Modules](#modulas)\
 [How Routing Works](#how-routing-works)\
 [Components with routings](#components-with-routings)\
-[Routing Basics](#routing-basics)
+[Routing Basics](#routing-basics)\
+[Setting up Routing](#Setting-up-Routing)
 
 ---
 
@@ -37,5 +38,11 @@
 ### Routing Basics
 
 ![Routing basics](./src/assets/images/05.jpg "Routing basics")
+
+---
+
+### Setting up Routing
+
+![Setting up Routing](./src/assets/images/06.jpg "")
 
 ---
