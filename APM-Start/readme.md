@@ -10,7 +10,8 @@
 [Setting up Routing](#Setting-up-Routing)\
 [Defining the Base Path](#Defining-the-Base-Path)\
 [Importing the Angular Roter](#Importing-the-Angular-Roter)\
-[router-outlet](#router-outlet)
+[router-outlet](#router-outlet)\
+[Summary](#Summary)
 
 ---
 
@@ -67,5 +68,15 @@
 ### router-outlet
 
 ![Defining the Base Path](./src/assets/images/11.jpg "")
+
+---
+
+### Summary
+
+![Defining the Base Path](./src/assets/images/12.jpg "")
+![Defining the Base Path](./src/assets/images/13.jpg "")
+![Defining the Base Path](./src/assets/images/14.jpg "")
+![Defining the Base Path](./src/assets/images/15.jpg "")
+![Defining the Base Path](./src/assets/images/16.jpg "")
 
 ---
