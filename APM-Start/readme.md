@@ -16,63 +16,63 @@
 ### Feature Modules
 
 Using single Angular modole can get a unwiedy (no separation of responsibilities)
-![Feature Modules](./src/assets/images/02/01.jpg "")
+<img src="./src/assets/images/02/01.jpg" width="75%">
 Using feature modeles allows us to consolidate the components for a specific application feature area into their own Angular modele.
-![Feature Modules](./src/assets/images/02/02.jpg "")
-![Feature Modules](./src/assets/images/02/03.jpg "")
+<img src="./src/assets/images/02/02.jpg" width="75%">
+<img src="./src/assets/images/02/03.jpg" width="75%">
 By the end of this course module we configure basic routing for 'Log In' and 'Product List' features.
-![Feature Modules](./src/assets/images/02/04.jpg "")
+<img src="./src/assets/images/02/04.jpg" width="75%">
 
 ---
 
 ### Setting up for Feature Routing
 
-![Feature Modules](./src/assets/images/02/05.jpg "")
+<img src="./src/assets/images/02/05.jpg" width="75%">
 
 ---
 
 ### Route Path Naming Strategies
 
-![Feature Modules](./src/assets/images/02/06.jpg "")
-![Feature Modules](./src/assets/images/02/07.jpg "")
+<img src="./src/assets/images/02/06.jpg" width="75%">
+<img src="./src/assets/images/02/07.jpg" width="75%">
 
 ---
 
 ### Activate a Route with Code
 
-![Feature Modules](./src/assets/images/02/08.jpg "")
-![Feature Modules](./src/assets/images/02/09.jpg "")
+<img src="./src/assets/images/02/08.jpg" width="75%">
+<img src="./src/assets/images/02/09.jpg" width="75%">
 
 ---
 
 ### Matching Routes
 
 Any route defenitions that are explicitly configured in module are processed last after any imported modules.
-![Feature Modules](./src/assets/images/02/10.jpg "")
+<img src="./src/assets/images/02/10.jpg" width="75%">
 
 ---
 
 ### "Why Define a Routing Module?"
 
-![Feature Modules](./src/assets/images/02/11.jpg "")
+<img src="./src/assets/images/02/11.jpg" width="75%">
 
 ---
 
 ### Matching Routes with app-routing.module
 
-![Feature Modules](./src/assets/images/02/12.jpg "")\
-Reordered
-![Feature Modules](./src/assets/images/02/13.jpg "")
+<img src="./src/assets/images/02/12.jpg" width="75%">\
+Reordered\
+<img src="./src/assets/images/02/13.jpg" width="75%">
 
 ---
 
 ### Checklists and Summary
 
-![Feature Modules](./src/assets/images/02/14.jpg "")\
-![Feature Modules](./src/assets/images/02/15.jpg "")
-![Feature Modules](./src/assets/images/02/16.jpg "")
-![Feature Modules](./src/assets/images/02/17.jpg "")
-![Feature Modules](./src/assets/images/02/18.jpg "")
-![Feature Modules](./src/assets/images/02/19.jpg ){ width=50% }
+<img src="./src/assets/images/02/14.jpg" width="75%">\
+<img src="./src/assets/images/02/15.jpg" width="75%">
+<img src="./src/assets/images/02/16.jpg" width="75%">
+<img src="./src/assets/images/02/17.jpg" width="75%">
+<img src="./src/assets/images/02/18.jpg" width="75%">
+<img src="./src/assets/images/02/19.jpg" width="75%">
 
 ---
