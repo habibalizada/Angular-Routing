@@ -5,6 +5,7 @@
 [Feature Modules](#Feature-Modules)\
 [Setting up for Feature Routing](#Setting-up-for-Feature-Routing)\
 [Route Path Naming Strategies](#Route-Path-Naming-Strategies)\
+[Activate a Route with Code](#Activate-a-Route-with-Code)\
 
 ---
 
@@ -30,5 +31,12 @@ By the end of this course module we configure basic routing for 'Log In' and 'Pr
 
 ![Feature Modules](./src/assets/images/02/06.jpg "")
 ![Feature Modules](./src/assets/images/02/07.jpg "")
+
+---
+
+### Activate a Route with Code
+
+![Feature Modules](./src/assets/images/02/08.jpg "")
+![Feature Modules](./src/assets/images/02/09.jpg "")
 
 ---
