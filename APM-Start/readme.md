@@ -8,7 +8,8 @@
 [Activate a Route with Code](#Activate-a-Route-with-Code)\
 [Matching Routes](#Matching-Routes)\
 [Why Define a Routing Module?](#"Why-Define-a-Routing-Module?")\
-[Matching Routes with app-routing.module](#"Matching-Routes-with-app-routing.module")
+[Matching Routes with app-routing.module](#"Matching-Routes-with-app-routing.module")\
+[Checklists and Summary](#Checklists-and-Summary)
 
 ---
 
@@ -62,5 +63,16 @@ Any route defenitions that are explicitly configured in module are processed las
 ![Feature Modules](./src/assets/images/02/12.jpg "")\
 Reordered
 ![Feature Modules](./src/assets/images/02/13.jpg "")
+
+---
+
+### Checklists and Summary
+
+![Feature Modules](./src/assets/images/02/14.jpg "")\
+![Feature Modules](./src/assets/images/02/15.jpg "")
+![Feature Modules](./src/assets/images/02/16.jpg "")
+![Feature Modules](./src/assets/images/02/17.jpg "")
+![Feature Modules](./src/assets/images/02/18.jpg "")
+![Feature Modules](./src/assets/images/02/19.jpg "")
 
 ---
