@@ -24,8 +24,11 @@
     </li>
     <li class="nav-item"
         *ngIf="!isLoggedIn">
-      <a class="nav-link">Log In</a>
+        <!-- 2. activate the route -->
+      <a class="nav-link"
+        [routerLink]="['/login']">Log In</a>
     </li>
+    <!-- 5. activate the route with code to navigate to  welcome page-->
     <li class="nav-item"
         *ngIf="isLoggedIn">
       <a class="nav-link"

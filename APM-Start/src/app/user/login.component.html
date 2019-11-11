@@ -61,9 +61,11 @@
                     [disabled]="!loginForm.valid">
               Log In
             </button>
+            <!-- 4. after clicking ton Cancel button user well be redirected to Welcome page -->
             <button class="btn btn-outline-secondary"
                     type="button"
-                    style="width:80px">
+                    style="width:80px"
+                    [routerLink]="['/welcome']">
               Cancel
             </button>
           </div>
