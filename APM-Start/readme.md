@@ -73,6 +73,6 @@ Reordered
 ![Feature Modules](./src/assets/images/02/16.jpg "")
 ![Feature Modules](./src/assets/images/02/17.jpg "")
 ![Feature Modules](./src/assets/images/02/18.jpg "")
-![Feature Modules](./src/assets/images/02/19.jpg ""){ width=50% }
+![Feature Modules|500x500 ,20%](./src/assets/images/02/19.jpg )
 
 ---
