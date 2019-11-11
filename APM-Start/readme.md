@@ -7,7 +7,8 @@
 [Route Path Naming Strategies](#Route-Path-Naming-Strategies)\
 [Activate a Route with Code](#Activate-a-Route-with-Code)\
 [Matching Routes](#Matching-Routes)\
-[Why Define a Routing Module?](#"Why-Define-a-Routing-Module?")
+[Why Define a Routing Module?](#"Why-Define-a-Routing-Module?")\
+[Matching Routes with app-routing.module](#"Matching-Routes-with-app-routing.module")
 
 ---
 
@@ -53,5 +54,13 @@ Any route defenitions that are explicitly configured in module are processed las
 ### "Why Define a Routing Module?"
 
 ![Feature Modules](./src/assets/images/02/11.jpg "")
+
+---
+
+### Matching Routes with app-routing.module
+
+![Feature Modules](./src/assets/images/02/12.jpg "")\
+Reordered
+![Feature Modules](./src/assets/images/02/13.jpg "")
 
 ---

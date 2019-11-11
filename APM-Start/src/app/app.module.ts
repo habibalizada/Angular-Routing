@@ -22,10 +22,10 @@ import { from } from 'rxjs';
     BrowserModule,
     HttpClientModule,
     InMemoryWebApiModule.forRoot(ProductData, { delay: 1000 }),
-    AppRoutingModule,
     ProductModule,
     UserModule,
-    MessageModule
+    MessageModule,
+    AppRoutingModule
   ],
   declarations: [
     AppComponent,
