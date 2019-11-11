@@ -7,6 +7,7 @@
 [Route Path Naming Strategies](#Route-Path-Naming-Strategies)\
 [Activate a Route with Code](#Activate-a-Route-with-Code)\
 [Matching Routes](#Matching-Routes)\
+[Why Define a Routing Module?](#"Why-Define-a-Routing-Module?")
 
 ---
 
@@ -46,5 +47,11 @@ By the end of this course module we configure basic routing for 'Log In' and 'Pr
 
 Any route defenitions that are explicitly configured in module are processed last after any imported modules.
 ![Feature Modules](./src/assets/images/02/10.jpg "")
+
+---
+
+### "Why Define a Routing Module?"
+
+![Feature Modules](./src/assets/images/02/11.jpg "")
 
 ---
