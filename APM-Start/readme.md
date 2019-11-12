@@ -4,6 +4,7 @@
 
 [Route Parameters](#Route-Parameters)\
 [Populating Rout Parameters](#Populating-Rout-Parameters)\
+[Reading Route Parameters](#Reading-Route-Parameters)\
 
 ### Route Parameters
 
@@ -21,5 +22,12 @@ Bye the end of this course module we will configure:
 <img src="./src/assets/images/03/05.jpg" width="75%">  
 <img src="./src/assets/images/03/06.jpg" width="75%">  
 <img src="./src/assets/images/03/07.jpg" width="75%">  
+
+---
+
+### Reading Route Parameters
+
+<img src="./src/assets/images/03/08.jpg" width="75%">  
+<img src="./src/assets/images/03/09.jpg" width="75%">  
 
 ---
