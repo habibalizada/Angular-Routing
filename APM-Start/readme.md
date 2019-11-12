@@ -6,6 +6,8 @@
 [Populating Rout Parameters](#Populating-Rout-Parameters)\
 [Reading Route Parameters](#Reading-Route-Parameters)\
 [Defining Optional Route Parameters](#Defining-Optional-Route-Parameters)\
+[Defining Query Parameters](#Defining-Query-Parameters)\
+[Reading Query Parameters](#Reading-Query-Parameters)\
 
 ### Route Parameters
 
@@ -55,3 +57,10 @@ Reading Optional Route Parameters
 <img src="./src/assets/images/03/16.jpg" width="75%">  
 Retaining Query Parameters (will be added to 'Back' button)
 <img src="./src/assets/images/03/17.jpg" width="75%">  
+
+---
+
+### Reading Query Parameters
+
+(for the reference)
+<img src="./src/assets/images/03/18.jpg" width="75%">  
