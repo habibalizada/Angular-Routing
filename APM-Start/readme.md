@@ -5,6 +5,7 @@
 [Route Parameters](#Route-Parameters)\
 [Populating Rout Parameters](#Populating-Rout-Parameters)\
 [Reading Route Parameters](#Reading-Route-Parameters)\
+[Defining Optional Route Parameters](#Defining-Optional-Route-Parameters)\
 
 ### Route Parameters
 
@@ -34,5 +35,16 @@ Observable
 <img src="./src/assets/images/03/10.jpg" width="75%">  
 Snapshot vs. Observable
 <img src="./src/assets/images/03/11.jpg" width="75%">  
+
+---
+
+### Defining Optional Route Parameters
+
+With Required Parameters
+<img src="./src/assets/images/03/12.jpg" width="75%">  
+With Optional Parameters
+<img src="./src/assets/images/03/13.jpg" width="75%">  
+Reading Optional Route Parameters
+<img src="./src/assets/images/03/14.jpg" width="75%">  
 
 ---
