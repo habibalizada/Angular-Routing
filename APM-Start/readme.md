@@ -3,6 +3,7 @@
 ## Table of Contents
 
 [Route Parameters](#Route-Parameters)\
+[Populating Rout Parameters](#Populating-Rout-Parameters)\
 
 ### Route Parameters
 
@@ -12,3 +13,13 @@ Route Parameters are best suited for a little bit of data like IDs or keywords.
 Bye the end of this course module we will configure:
 <img src="./src/assets/images/03/03.jpg" width="75%">  
 
+---
+
+### Populating Rout Parameters
+
+<img src="./src/assets/images/03/04.jpg" width="75%">  
+<img src="./src/assets/images/03/05.jpg" width="75%">  
+<img src="./src/assets/images/03/06.jpg" width="75%">  
+<img src="./src/assets/images/03/07.jpg" width="75%">  
+
+---
