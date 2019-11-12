@@ -48,3 +48,10 @@ Reading Optional Route Parameters
 <img src="./src/assets/images/03/14.jpg" width="75%">  
 
 ---
+
+### Defining Query Parameters
+
+<img src="./src/assets/images/03/15.jpg" width="75%">  
+<img src="./src/assets/images/03/16.jpg" width="75%">  
+Retaining Query Parameters (will be added to 'Back' button)
+<img src="./src/assets/images/03/17.jpg" width="75%">  
