@@ -32,5 +32,7 @@ Snapshot
 <img src="./src/assets/images/03/09.jpg" width="75%">  
 Observable
 <img src="./src/assets/images/03/10.jpg" width="75%">  
+Snapshot vs. Observable
+<img src="./src/assets/images/03/11.jpg" width="75%">  
 
 ---
