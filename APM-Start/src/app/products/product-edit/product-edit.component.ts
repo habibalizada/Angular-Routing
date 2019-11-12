@@ -21,14 +21,23 @@ export class ProductEditComponent implements OnInit {
               private route: ActivatedRoute) { }
 
 
+  // ngOnInit(): void {
+  //   /*
+  //   after cliking on a product name and then cliking edit button edit page opens with
+  //   the form with populated data. at this point 'Add Product' link will not work the way
+  //   it supposed to. to make it work instead of 'snaposhot' we use 'absorvable'
+  //   */
+  //   const id = +this.route.snapshot.paramMap.get('id');
+  //   this.getProduct(id);
+  // }
+
   ngOnInit(): void {
-    /*
-    after cliking on a product name and then cliking edit button edit page opens with
-    the form with populated data. at this point 'Add Product' link will not work the way
-    it supposed to. to make it work instead of 'snaposhot' we use 'absorvable'
-    */
-    const id = +this.route.snapshot.paramMap.get('id');
-    this.getProduct(id);
+    this.route.paramMap.subscribe(
+      params => {
+        const id = +params.get('id');
+        this.getProduct(id);
+      }
+    );
   }
   getProduct(id: number): void {
     this.productService.getProduct(id).subscribe({

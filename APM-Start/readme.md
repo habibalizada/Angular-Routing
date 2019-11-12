@@ -28,6 +28,9 @@ Bye the end of this course module we will configure:
 ### Reading Route Parameters
 
 <img src="./src/assets/images/03/08.jpg" width="75%">  
+Snapshot
 <img src="./src/assets/images/03/09.jpg" width="75%">  
+Observable
+<img src="./src/assets/images/03/10.jpg" width="75%">  
 
 ---
