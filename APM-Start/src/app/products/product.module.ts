@@ -12,6 +12,8 @@ import { RouterModule } from '@angular/router'; // 1.a. Import Router
     SharedModule,
     RouterModule.forChild([ // 1.b. Add RouterModule here since it is feature rout we use .forChiled()
       { path: 'products', component: ProductListComponent }, // 2. Configure routes
+      { path: 'products/:id', component: ProductDetailComponent },
+      { path: 'products/:id/edit', component: ProductEditComponent }
     ])
   ],
   declarations: [
