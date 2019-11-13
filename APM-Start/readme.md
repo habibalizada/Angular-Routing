@@ -8,6 +8,7 @@
 [Defining Optional Route Parameters](#Defining-Optional-Route-Parameters)\
 [Defining Query Parameters](#Defining-Query-Parameters)\
 [Reading Query Parameters](#Reading-Query-Parameters)\
+[Checklist and Summary](#Checklist-and-Summary)
 
 ### Route Parameters
 
@@ -64,3 +65,16 @@ Retaining Query Parameters (will be added to 'Back' button)
 
 (for the reference)
 <img src="./src/assets/images/03/18.jpg" width="75%">  
+
+---
+
+### Checklist and Summary
+
+<img src="./src/assets/images/03/19.jpg" width="75%">  
+<img src="./src/assets/images/03/20.jpg" width="75%">  
+<img src="./src/assets/images/03/21.jpg" width="75%">  
+<img src="./src/assets/images/03/22.jpg" width="75%">  
+<img src="./src/assets/images/03/23.jpg" width="75%">  
+<img src="./src/assets/images/03/24.jpg" width="75%">  
+<img src="./src/assets/images/03/25.jpg" width="75%">  
+<img src="./src/assets/images/03/26.jpg" width="75%">  
