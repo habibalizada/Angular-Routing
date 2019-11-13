@@ -2,9 +2,10 @@
 
 ## Table of Contents
 
-[Prefetching Data Using Route Resolvers](#Prefetching-Data-Using-Route-Resolvers)
-[Providing Data with a Route](#Providing-Data-with-a-Route)
-[Using a Route Resolver](#Using-a-Route-Resolver)
+[Prefetching Data Using Route Resolvers](#Prefetching-Data-Using-Route-Resolvers)\
+[Providing Data with a Route](#Providing-Data-with-a-Route)\
+[Using a Route Resolver](#Using-a-Route-Resolver)\
+[Building a Route Resolver Service](#Building-a-Route-Resolver-Service)
 
 ---
 
@@ -30,4 +31,11 @@
 <img src="./src/assets/images/04/08.jpg" width="75%">
 <img src="./src/assets/images/04/09.jpg" width="75%">
 <img src="./src/assets/images/04/10.jpg" width="75%">
-<img src="./src/assets/images/04/11.jpg" width="75%">
+<img src="./src/assets/images/04/11.jpg" width="75%">  
+
+---
+
+### Building a Route Resolver Service
+
+<img src="./src/assets/images/04/12.jpg" width="75%">  
+
