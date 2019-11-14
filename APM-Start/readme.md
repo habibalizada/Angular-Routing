@@ -7,8 +7,9 @@
 [Using a Route Resolver](#Using-a-Route-Resolver)\
 [Building a Route Resolver Service](#Building-a-Route-Resolver-Service)\
 [Adding a Resolver to a Route Configuration](#Adding-a-Resolver-to-a-Route-Configuration)\
-[Reading Resolver Data: Snapshot](#Reading-Resolver-Data:-Snapshot)
-[Reading Resolver Data: Observables](#Reading-Resolver-Data:-Observables)
+[Reading Resolver Data: Snapshot](#Reading-Resolver-Data:-Snapshot)\
+[Reading Resolver Data: Observables](#Reading-Resolver-Data:-Observables)\
+[Checklist and Summary](#Checklist-and-Summary)
 
 ---
 
@@ -62,4 +63,14 @@
 ### Reading Resolver Data: Observables
 
 <img src="./src/assets/images/04/18.jpg" width="75%">  
+
+---
+
+### Checklist and Summary
+
+<img src="./src/assets/images/04/19.jpg" width="75%">  
+<img src="./src/assets/images/04/20.jpg" width="75%">  
+<img src="./src/assets/images/04/21.jpg" width="75%">  
+<img src="./src/assets/images/04/22.jpg" width="75%">  
+<img src="./src/assets/images/04/23.jpg" width="75%">  
 
