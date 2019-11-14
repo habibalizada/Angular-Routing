@@ -6,7 +6,8 @@
 [Providing Data with a Route](#Providing-Data-with-a-Route)\
 [Using a Route Resolver](#Using-a-Route-Resolver)\
 [Building a Route Resolver Service](#Building-a-Route-Resolver-Service)\
-[Adding a Resolver to a Route Configuration](#Adding-a-Resolver-to-a-Route-Configuration)
+[Adding a Resolver to a Route Configuration](#Adding-a-Resolver-to-a-Route-Configuration)\
+[Reading Resolver Data: Snapshot](#Reading-Resolver-Data:-Snapshot)
 
 ---
 
@@ -47,4 +48,11 @@
 ### Adding a Resolver to a Route Configuration
 
 <img src="./src/assets/images/04/15.jpg" width="75%">  
+
+---
+
+### Reading Resolver Data: Snapshot
+
+<img src="./src/assets/images/04/16.jpg" width="75%">  
+<img src="./src/assets/images/04/17.jpg" width="75%">  
 

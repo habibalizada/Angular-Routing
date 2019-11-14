@@ -20,18 +20,17 @@ export class ProductResolver implements Resolve<ProductResolved> {
     if (isNaN(+id)) {
       const message = `Product id was not a number: ${id}`;
       console.error(message);
-      return of({ product: null, error: message });
+      return of({product: null, error: message});
     }
-
     return this.productService.getProduct(+id)
-      .pipe(
-        map(product => ({ product: product })),
-        catchError(error => {
-          const message = `Retrieval error: ${error}`;
-          console.error(message);
-          return of({ product: null, error: message });
-        })
-      );
+    .pipe(
+      map(product => ({product: product})),
+      catchError(error => {
+        const message = `Retrieval error: ${error}`;
+        console.error(message);
+        return of({product: null, error: message});
+      })
+    );
   }
 
 }

@@ -15,7 +15,7 @@ import { ProductResolver } from './product-resolver.service';
       { path: 'products', component: ProductListComponent }, // 2. Configure routes
       { path: 'products/:id',
         component: ProductDetailComponent,
-        resolve: { resovedData: ProductResolver}
+        resolve: { resolvedData: ProductResolver}
       },
       { path: 'products/:id/edit',
         component: ProductEditComponent,
