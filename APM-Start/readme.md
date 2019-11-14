@@ -8,6 +8,7 @@
 [Building a Route Resolver Service](#Building-a-Route-Resolver-Service)\
 [Adding a Resolver to a Route Configuration](#Adding-a-Resolver-to-a-Route-Configuration)\
 [Reading Resolver Data: Snapshot](#Reading-Resolver-Data:-Snapshot)
+[Reading Resolver Data: Observables](#Reading-Resolver-Data:-Observables)
 
 ---
 
@@ -55,4 +56,10 @@
 
 <img src="./src/assets/images/04/16.jpg" width="75%">  
 <img src="./src/assets/images/04/17.jpg" width="75%">  
+
+---
+
+### Reading Resolver Data: Observables
+
+<img src="./src/assets/images/04/18.jpg" width="75%">  
 
