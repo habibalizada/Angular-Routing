@@ -38,4 +38,6 @@
 ### Building a Route Resolver Service
 
 <img src="./src/assets/images/04/12.jpg" width="75%">  
+<img src="./src/assets/images/04/13.jpg" width="75%">  
+<img src="./src/assets/images/04/14.jpg" width="75%">  
 
