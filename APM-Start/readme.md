@@ -5,6 +5,7 @@
 [Child Routes](#Child-Routes)\
 [Using Child Routes](#Using-Child-Routes)\
 [Configuring Child Routes](#Configuring-Child-Routes)\
+[Placing the Child View](#Placing-the-Child-View)\
 
 ---
 
@@ -33,3 +34,10 @@
 <img src="./src/assets/images/05/11.jpg" width="75%">
 <img src="./src/assets/images/05/12.jpg" width="75%">
 <img src="./src/assets/images/05/13.jpg" width="75%">
+
+
+---
+
+### Placing the Child View
+
+<img src="./src/assets/images/05/14.jpg" width="75%">
