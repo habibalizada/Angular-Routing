@@ -6,6 +6,7 @@
 [Using Child Routes](#Using-Child-Routes)\
 [Configuring Child Routes](#Configuring-Child-Routes)\
 [Activating Child Route](#Activating-Child-Route)\
+[Obtainig Data for a Child Route](#Obtainig-Data-for-a-Child-Route)\
 
 ---
 
@@ -46,3 +47,10 @@
 ### Activating Child Route
 
 <img src="./src/assets/images/05/15.jpg" width="75%">
+
+---
+
+### Obtainig Data for a Child Route
+
+<img src="./src/assets/images/05/16.jpg" width="75%">
+<img src="./src/assets/images/05/17.jpg" width="75%">
