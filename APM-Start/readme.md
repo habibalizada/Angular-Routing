@@ -7,6 +7,7 @@
 [Configuring Child Routes](#Configuring-Child-Routes)\
 [Activating Child Route](#Activating-Child-Route)\
 [Obtainig Data for a Child Route](#Obtainig-Data-for-a-Child-Route)\
+[Validating Across Child Routes](#Validating-Across-Child-Routes)\
 
 ---
 
@@ -54,3 +55,14 @@
 
 <img src="./src/assets/images/05/16.jpg" width="75%">
 <img src="./src/assets/images/05/17.jpg" width="75%">
+
+---
+
+### Validating Across Child Routes
+
+<img src="./src/assets/images/05/18.jpg" width="75%">
+<img src="./src/assets/images/05/19.jpg" width="75%">
+<img src="./src/assets/images/05/20.jpg" width="75%">
+<img src="./src/assets/images/05/21.jpg" width="75%">
+<img src="./src/assets/images/05/22.jpg" width="75%">
+<img src="./src/assets/images/05/23.jpg" width="75%">
