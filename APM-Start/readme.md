@@ -4,6 +4,7 @@
 
 [Child Routes](#Child-Routes)\
 [Using Child Routes](#Using-Child-Routes)\
+[Configuring Child Routes](#Configuring-Child-Routes)\
 
 ---
 
@@ -25,3 +26,10 @@
 <img src="./src/assets/images/05/09.jpg" width="75%">
 <img src="./src/assets/images/05/10.jpg" width="75%">
 
+---
+
+### Configuring Child Routes
+
+<img src="./src/assets/images/05/11.jpg" width="75%">
+<img src="./src/assets/images/05/12.jpg" width="75%">
+<img src="./src/assets/images/05/13.jpg" width="75%">
