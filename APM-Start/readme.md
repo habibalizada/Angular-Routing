@@ -8,6 +8,7 @@
 [Activating Child Route](#Activating-Child-Route)\
 [Obtainig Data for a Child Route](#Obtainig-Data-for-a-Child-Route)\
 [Validating Across Child Routes](#Validating-Across-Child-Routes)\
+[Checklists and Summary](#Checklists-and-Summary)
 
 ---
 
@@ -66,3 +67,14 @@
 <img src="./src/assets/images/05/21.jpg" width="75%">
 <img src="./src/assets/images/05/22.jpg" width="75%">
 <img src="./src/assets/images/05/23.jpg" width="75%">
+
+---
+
+### Checklists and Summary
+
+<img src="./src/assets/images/05/24.jpg" width="75%">
+<img src="./src/assets/images/05/25.jpg" width="75%">
+<img src="./src/assets/images/05/26.jpg" width="75%">
+<img src="./src/assets/images/05/27.jpg" width="75%">
+<img src="./src/assets/images/05/28.jpg" width="75%">
+<img src="./src/assets/images/05/29.jpg" width="75%">
