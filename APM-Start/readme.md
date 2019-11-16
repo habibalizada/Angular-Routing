@@ -5,6 +5,7 @@
 [Introduction](#Introduction)\
 [Grouping Routes](#Grouping-Routes)\
 [Component-less Routes](#Component-less-Routes)\
+[Checklists and Summary](#Checklists-and-Summary)\
 
 ---
 
@@ -44,3 +45,11 @@ Now hierarchy looks like this:
 Since parent rout is component-less the child component templates appear in the primary router-outlet.
 <img src="./src/assets/images/06/13.jpg" width="75%">  
 
+---
+
+### Checklists and Summary
+
+<img src="./src/assets/images/06/14.jpg" width="75%">  
+<img src="./src/assets/images/06/15.jpg" width="75%">  
+<img src="./src/assets/images/06/16.jpg" width="75%">  
+<img src="./src/assets/images/06/17.jpg" width="75%">  
