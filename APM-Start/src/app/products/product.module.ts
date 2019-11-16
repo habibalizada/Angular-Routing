@@ -16,8 +16,11 @@ import { ProductEditTagsComponent } from './product-edit/product-edit-tags.compo
     RouterModule.forChild([ // 1.b. Add RouterModule here since it is feature rout we use .forChiled()
       {
         path: 'products',
-        component: ProductListComponent,
         children: [
+          {
+            path: '',
+            component: ProductListComponent
+          },
           {
             path: ':id',
             component: ProductDetailComponent,
