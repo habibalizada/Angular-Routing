@@ -13,7 +13,10 @@ import { PageNotFoundComponent } from './page-not-found.component';
       { path: 'welcome', component: WelcomeComponent },
       { path: '', pathMatch: 'full', redirectTo: 'welcome' },
       { path: '**', component: PageNotFoundComponent }
-    ])
+    ]
+    // feel free to add or remove this as desired
+    // , { enableTracing: true }
+    )
   ],
   exports: [RouterModule]
 })
