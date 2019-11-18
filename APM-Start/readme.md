@@ -6,6 +6,7 @@
 [Styling the Selected Route](#Styling-the-Selected-Route)\
 [Roting Events](#Roting-Events)\
 [Reacting to Routing Events](#Reacting-to-Routing-Events)\
+[Checklists and Summary](#Checklists-and-Summary)\
 
 ---
 
@@ -41,3 +42,13 @@ Watching Routing Events
 <img src="./src/assets/images/07/07.jpg" width="75%">  
 Watching Routing Events
 <img src="./src/assets/images/07/08.jpg" width="75%">  
+
+---
+
+### Checklists and Summary
+
+<img src="./src/assets/images/07/09.jpg" width="75%">  
+<img src="./src/assets/images/07/10.jpg" width="75%">  
+<img src="./src/assets/images/07/11.jpg" width="75%">  
+<img src="./src/assets/images/07/12.jpg" width="75%">  
+<img src="./src/assets/images/07/13.jpg" width="75%">  
