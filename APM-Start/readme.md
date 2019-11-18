@@ -5,6 +5,7 @@
 [Introduction](#Introduction)\
 [Primary Router Outlet](#Primary-Router-Outlet)\
 [Defining a Named Router Outlet](#Defining-a-Named-Router-Outlet)\
+[Configuring Secondary Routes](#Configuring-Secondary-Routes)\
 
 ---
 
@@ -30,3 +31,11 @@ But imagine if each panel support independent navigation, for example click on a
 ### Defining a Named Router Outlet
 
 <img src="./src/assets/images/08/08.jpg" width="75%">  
+
+---
+
+### Configuring Secondary Routes
+
+<img src="./src/assets/images/08/09.jpg" width="75%">  
+<img src="./src/assets/images/08/10.jpg" width="75%">  
+<img src="./src/assets/images/08/11.jpg" width="75%">  
