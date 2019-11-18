@@ -7,6 +7,7 @@
 [Defining a Named Router Outlet](#Defining-a-Named-Router-Outlet)\
 [Configuring Secondary Routes](#Configuring-Secondary-Routes)\
 [Activating Secondary Routes: RouterLink](#Activating-Secondary-Routes:-RouterLink)\
+[Activating Secondary Routes: In Code](#Activating-Secondary-Routes:-In-Code)\
 
 ---
 
@@ -46,3 +47,9 @@ But imagine if each panel support independent navigation, for example click on a
 ### Activating Secondary Routes: RouterLink
 
 <img src="./src/assets/images/08/12.jpg" width="75%">  
+
+---
+
+### Activating Secondary Routes: In Code
+
+<img src="./src/assets/images/08/13.jpg" width="75%">  
