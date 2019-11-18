@@ -5,6 +5,7 @@
 [Introduction](#Introduction)\
 [Styling the Selected Route](#Styling-the-Selected-Route)\
 [Roting Events](#Roting-Events)\
+[Reacting to Routing Events](#Reacting-to-Routing-Events)\
 
 ---
 
@@ -32,3 +33,11 @@
 <img src="./src/assets/images/07/05.jpg" width="75%">  
 Watching Routing Events
 <img src="./src/assets/images/07/06.jpg" width="75%">  
+
+---
+
+### Reacting to Routing Events
+
+<img src="./src/assets/images/07/07.jpg" width="75%">  
+Watching Routing Events
+<img src="./src/assets/images/07/08.jpg" width="75%">  
