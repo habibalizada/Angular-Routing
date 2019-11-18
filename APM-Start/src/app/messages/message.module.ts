@@ -11,7 +11,7 @@ import { RouterModule } from '@angular/router';
     // since this is feature module we use forChild medthod
     RouterModule.forChild([
       {
-        path: 'message',
+        path: 'messages',
         component: MessageComponent,
         outlet: 'popup'
       },
