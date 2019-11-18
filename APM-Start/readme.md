@@ -3,6 +3,7 @@
 ## Table of Contents
 
 [Introduction](#Introduction)\
+[Primary Router Outlet](#Primary-Router-Outlet)\
 
 ---
 
@@ -14,3 +15,11 @@ But imagine if each panel support independent navigation, for example click on a
 <img src="./src/assets/images/08/02.jpg" width="75%">  
 <img src="./src/assets/images/08/03.jpg" width="75%">  
 <img src="./src/assets/images/08/04.jpg" width="75%">  
+
+---
+
+### Primary Router Outlet
+
+<img src="./src/assets/images/08/05.jpg" width="75%">  
+<img src="./src/assets/images/08/06.jpg" width="75%">  
+<img src="./src/assets/images/08/07.jpg" width="75%">  
