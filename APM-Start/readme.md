@@ -9,6 +9,7 @@
 [Activating Secondary Routes: RouterLink](#Activating-Secondary-Routes:-RouterLink)\
 [Activating Secondary Routes: In Code](#Activating-Secondary-Routes:-In-Code)\
 [Clearing Secondary Outlets](#Clearing-Secondary-Outlets)\
+[Checklists and Summary](#Checklists-and-Summary)
 
 ---
 
@@ -60,3 +61,14 @@ But imagine if each panel support independent navigation, for example click on a
 ### Clearing Secondary Outlets
 
 <img src="./src/assets/images/08/14.jpg" width="75%">  
+
+---
+
+### Checklists and Summary
+
+<img src="./src/assets/images/08/15.jpg" width="75%">  
+<img src="./src/assets/images/08/16.jpg" width="75%">  
+<img src="./src/assets/images/08/17.jpg" width="75%">  
+<img src="./src/assets/images/08/18.jpg" width="75%">  
+<img src="./src/assets/images/08/19.jpg" width="75%">  
+<img src="./src/assets/images/08/20.jpg" width="75%">  
