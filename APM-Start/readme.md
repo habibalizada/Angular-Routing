@@ -4,6 +4,7 @@
 
 [Introduction](#Introduction)\
 [Primary Router Outlet](#Primary-Router-Outlet)\
+[Defining a Named Router Outlet](#Defining-a-Named-Router-Outlet)\
 
 ---
 
@@ -23,3 +24,9 @@ But imagine if each panel support independent navigation, for example click on a
 <img src="./src/assets/images/08/05.jpg" width="75%">  
 <img src="./src/assets/images/08/06.jpg" width="75%">  
 <img src="./src/assets/images/08/07.jpg" width="75%">  
+
+---
+
+### Defining a Named Router Outlet
+
+<img src="./src/assets/images/08/08.jpg" width="75%">  
