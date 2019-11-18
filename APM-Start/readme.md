@@ -4,7 +4,6 @@
 
 [Introduction](#Introduction)\
 [Styling the Selected Route](#Styling-the-Selected-Route)\
-[Routing Events](#SRouting-Events)\
 
 ---
 
@@ -24,10 +23,3 @@
 ### Animating Route Transitions
 
 <img src="./src/assets/images/07/04.jpg" width="75%">  
-
----
-
-### Routing Events
-
-<img src="./src/assets/images/07/05.jpg" width="75%">  
-<img src="./src/assets/images/07/06.jpg" width="75%">  
