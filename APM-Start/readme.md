@@ -6,6 +6,7 @@
 [Using Route Guards](#Using-Route-Guards)\
 [canActivate Guard](#canActivate-Guard)\
 [Sharing Data](#Sharing-Data)\
+[canDeactivate Guard](#canDeactivate-Guard)\
 
 ---
 
@@ -55,3 +56,9 @@ Same thing for our tabs. Any canActivate guards on the parent product edit route
 <img src="./src/assets/images/09/18.jpg" width="75%">  
 when changing tabs, but any canActivatedChild guards are.
 <img src="./src/assets/images/09/19.jpg" width="75%">  
+
+---
+
+### canDeactivate Guard
+
+<img src="./src/assets/images/09/20.jpg" width="75%">  
