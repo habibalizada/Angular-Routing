@@ -7,6 +7,7 @@
 [canActivate Guard](#canActivate-Guard)\
 [Sharing Data](#Sharing-Data)\
 [canDeactivate Guard](#canDeactivate-Guard)\
+[Checklists and Summary](#Checklists-and-Summary)\
 
 ---
 
@@ -62,3 +63,15 @@ when changing tabs, but any canActivatedChild guards are.
 ### canDeactivate Guard
 
 <img src="./src/assets/images/09/20.jpg" width="75%">  
+
+---
+
+### Checklists and Summary
+
+<img src="./src/assets/images/09/21.jpg" width="75%">  
+<img src="./src/assets/images/09/22.jpg" width="75%">  
+<img src="./src/assets/images/09/23.jpg" width="75%">  
+Authrization Guard: to protect all of th children and ensure to user is logged in befor accessing any product data.
+<img src="./src/assets/images/09/24.jpg" width="75%">  
+canDeactivate Guard: to ask users the confirmation befor navigating away with nusave changes.
+<img src="./src/assets/images/09/25.jpg" width="75%">  
