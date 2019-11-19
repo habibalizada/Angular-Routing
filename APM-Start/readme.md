@@ -39,3 +39,19 @@
 ### Sharing Data
 
 <img src="./src/assets/images/09/13.jpg" width="75%">  
+
+---
+
+### CanActivateChild Guard
+
+<img src="./src/assets/images/09/14.jpg" width="75%">  
+If the user is on the Product List page and 
+<img src="./src/assets/images/09/15.jpg" width="75%">  
+and clicks the Add Product menu option, only the child route changes.
+<img src="./src/assets/images/09/16.jpg" width="75%">  
+The canActivate guards on the parent route are not executed again, but any canActivatedChild guards are.
+<img src="./src/assets/images/09/17.jpg" width="75%">  
+Same thing for our tabs. Any canActivate guards on the parent product edit route are not re-executed
+<img src="./src/assets/images/09/18.jpg" width="75%">  
+when changing tabs, but any canActivatedChild guards are.
+<img src="./src/assets/images/09/19.jpg" width="75%">  
