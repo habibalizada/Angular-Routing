@@ -4,6 +4,7 @@
 
 [Introduction](#Introduction)\
 [Using Route Guards](#Using-Route-Guards)\
+[canActivate Guard](#canActivate-Guard)\
 
 ---
 
@@ -22,3 +23,12 @@
 <img src="./src/assets/images/09/06.jpg" width="75%">  
 <img src="./src/assets/images/09/07.jpg" width="75%">  
 <img src="./src/assets/images/09/08.jpg" width="75%">  
+
+---
+
+### canActivate Guard
+
+<img src="./src/assets/images/09/09.jpg" width="75%">  
+<img src="./src/assets/images/09/10.jpg" width="75%">  
+<img src="./src/assets/images/09/11.jpg" width="75%">  
+<img src="./src/assets/images/09/12.jpg" width="75%">  
