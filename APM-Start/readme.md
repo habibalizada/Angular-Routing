@@ -5,6 +5,7 @@
 [Introduction](#Introduction)\
 [Using Route Guards](#Using-Route-Guards)\
 [canActivate Guard](#canActivate-Guard)\
+[Sharing Data](#Sharing-Data)\
 
 ---
 
@@ -32,3 +33,9 @@
 <img src="./src/assets/images/09/10.jpg" width="75%">  
 <img src="./src/assets/images/09/11.jpg" width="75%">  
 <img src="./src/assets/images/09/12.jpg" width="75%">  
+
+---
+
+### Sharing Data
+
+<img src="./src/assets/images/09/13.jpg" width="75%">  
