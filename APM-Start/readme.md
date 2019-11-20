@@ -5,6 +5,7 @@
 [Introduction](#Introduction)\
 [Building and Serving Our Files](#Building-and-Serving-Our-Files)\
 [Preparing for Lazy Loading](#Preparing-for-Lazy-Loading)\
+[Lazy Loading](#Lazy-Loading)\
 
 ---
 
@@ -32,3 +33,11 @@ The biggest file is main bundle.If we can reduce the size of that bundle, we can
 
 The feature area to lazy load must meet a few requirments.
 <img src="./src/assets/images/10/10.jpg" width="75%">  
+
+---
+
+### Lazy Loading
+
+The feature area to lazy load must meet a few requirments.
+<img src="./src/assets/images/10/11.jpg" width="75%">  
+<img src="./src/assets/images/10/12.jpg" width="75%">  
