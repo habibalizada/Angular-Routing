@@ -9,6 +9,7 @@
 [canLoad Guard](#canLoad-Guard)\
 [Preloading Feature Modules](#Preloading-Feature-Modules)\
 [Custom Preloading Strategy](#Custom-Preloading-Strategy)\
+[Checklists and Summary](#Checklists-and-Summary)
 
 ---
 
@@ -66,3 +67,13 @@ The feature area to lazy load must meet a few requirments.
 <img src="./src/assets/images/10/18.jpg" width="75%">  
 <img src="./src/assets/images/10/19.jpg" width="75%">  
 <img src="./src/assets/images/10/20.jpg" width="75%">  
+
+---
+
+### Checklists and Summary
+
+<img src="./src/assets/images/10/21.jpg" width="75%">  
+<img src="./src/assets/images/10/22.jpg" width="75%">  
+<img src="./src/assets/images/10/23.jpg" width="75%">  
+<img src="./src/assets/images/10/24.jpg" width="75%">  
+<img src="./src/assets/images/10/25.jpg" width="75%">  
