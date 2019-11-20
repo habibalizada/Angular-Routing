@@ -3,6 +3,7 @@
 ## Table of Contents
 
 [Introduction](#Introduction)\
+[Building and Serving Our Files](#Building-and-Serving-Our-Files)\
 
 ---
 
@@ -19,7 +20,7 @@
 
 ---
 
-### Introduction
+### Building and Serving Our Files
 
 The biggest file is main bundle.If we can reduce the size of that bundle, we can improve our application's startup time. That's the purpose of lazy loading. We break up our application into features so our main bundle only contains the startup code for our appliction. All of our other feature code is built into seprate modules tha are downloaded on demand or asynchronously in the background after the firs page is displayed.
 <img src="./src/assets/images/10/09.jpg" width="75%">  
