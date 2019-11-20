@@ -7,6 +7,7 @@
 [Preparing for Lazy Loading](#Preparing-for-Lazy-Loading)\
 [Lazy Loading](#Lazy-Loading)\
 [canLoad Guard](#canLoad-Guard)\
+[Preloading Feature Modules](#Preloading-Feature-Modules)\
 
 ---
 
@@ -47,3 +48,11 @@ The feature area to lazy load must meet a few requirments.
 ### canLoad Guard
 
 <img src="./src/assets/images/10/13.jpg" width="75%">  
+
+---
+
+### Preloading Feature Modules
+
+<img src="./src/assets/images/10/14.jpg" width="75%">  
+<img src="./src/assets/images/10/15.jpg" width="75%">  
+<img src="./src/assets/images/10/16.jpg" width="75%">  
