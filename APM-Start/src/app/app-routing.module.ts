@@ -1,9 +1,10 @@
 import { NgModule } from '@angular/core';
-import { RouterModule, PreloadAllModules } from '@angular/router';
-
+import { RouterModule } from '@angular/router';
 import { WelcomeComponent } from './home/welcome.component';
 import { PageNotFoundComponent } from './page-not-found.component';
+import { SelectiveStrategy } from './selective-strategy.service';
 import { AuthGuard } from './user/auth.guard';
+
 
 
 
@@ -15,12 +16,13 @@ import { AuthGuard } from './user/auth.guard';
       {
         path: 'products',
         canActivate: [ AuthGuard],
+        data: { preload: false},
         loadChildren: () =>
           import('./products/product.module').then(m => m.ProductModule)
       },
       { path: '', pathMatch: 'full', redirectTo: 'welcome' },
       { path: '**', component: PageNotFoundComponent }
-    ], { preloadingStrategy: PreloadAllModules}
+    ], { preloadingStrategy: SelectiveStrategy}
     // feel free to add or remove this as desired
     // , { enableTracing: true }
     )

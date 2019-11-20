@@ -8,6 +8,7 @@
 [Lazy Loading](#Lazy-Loading)\
 [canLoad Guard](#canLoad-Guard)\
 [Preloading Feature Modules](#Preloading-Feature-Modules)\
+[Custom Preloading Strategy](#Custom-Preloading-Strategy)\
 
 ---
 
@@ -56,3 +57,12 @@ The feature area to lazy load must meet a few requirments.
 <img src="./src/assets/images/10/14.jpg" width="75%">  
 <img src="./src/assets/images/10/15.jpg" width="75%">  
 <img src="./src/assets/images/10/16.jpg" width="75%">  
+
+---
+
+### Custom Preloading Strategy
+
+<img src="./src/assets/images/10/17.jpg" width="75%">  
+<img src="./src/assets/images/10/18.jpg" width="75%">  
+<img src="./src/assets/images/10/19.jpg" width="75%">  
+<img src="./src/assets/images/10/20.jpg" width="75%">  
